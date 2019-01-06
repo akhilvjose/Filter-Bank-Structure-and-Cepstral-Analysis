@@ -1,2 +1,8 @@
 # Filter-Bank-Structure-and-Cepstral-Analysis
 Influence of Filter Bank Structure on the Statistical Significance of Coefficients in Cepstral Analysis for Acoustic Signals
+The published work can be found at the following link:
+https://link.springer.com/chapter/10.1007/978-3-319-67934-1_9
+
+cite as: Jose A., Joseph J., Devadhas G., Shinu M.M. (2018) Influence of Filter Bank Structure on the Statistical Significance of Coefficients in Cepstral Analysis for Acoustic Signals. In: Thampi S., Krishnan S., Corchado Rodriguez J., Das S., Wozniak M., Al-Jumeily D. (eds) Advances in Signal Processing and Intelligent Recognition Systems. SIRS 2017. Advances in Intelligent Systems and Computing, vol 678. Springer, Cham
+
+Several programmed speech recognition and classification methods use Mel Frequency Cepstral Coefficients (MFCC) features. This paper presented a modification of Mel filter bank structure to a linear filter bank structure and obtained coefficients are named as Linear Frequency Cepstral Coefficients (LFCC). To study about the class discriminability of MFCC and LFCC, analysis of statistical significance of both the features is carried on specimens of two dissimilar databases. The first database is low-frequency heart sound signals of different classes and second is high-frequency music signals of various genres. Four different feature sets are formed by performing MFCC and LFCC feature extraction on the two databases. Kruskal-Wallis test is conducted on all four feature sets to investigate the inter-class variability and intra-class similarity of the features extracted. Further, box plots are plotted and analysed for better appreciation of feature sets and its ability to classify acoustic signals.
